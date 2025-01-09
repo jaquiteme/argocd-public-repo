@@ -1,4 +1,4 @@
-# Azure store front application
+# Azure store application
 
 ## Microservices
 
