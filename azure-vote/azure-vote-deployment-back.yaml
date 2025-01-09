@@ -20,7 +20,7 @@ spec:
           image: mcr.microsoft.com/oss/bitnami/redis:6.0.8
           env:
             - name: ALLOW_EMPTY_PASSWORD
-              value: 'yes'
+              value: "yes"
           resources:
             requests:
               cpu: 100m
